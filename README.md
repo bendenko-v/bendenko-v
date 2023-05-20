@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  ![giphy](https://github.com/bendenko-v/bendenko-v/assets/61465972/a060c60d-533a-43e0-b85b-158f9187ccdb)
+  ![giphy](https://github.com/bendenko-v/bendenko-v/assets/61465972/f57383a2-1d79-45cd-8845-b22aa347521d)
+
 </div>
 
 <!--

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif"/>
+  <img src="https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif" width="200">
 </div>
 
 <!--

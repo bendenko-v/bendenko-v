@@ -6,6 +6,10 @@
         I am a 2D/3D CAD designer in AutoCAD, Plant3D, Inventor. I have been working with heating systems for over 10 years.<br>
         In recent years, I have been studying Python and I want to dedicate myself to web development.
     </details>
+         <strong>My contacts: </strong>
+    <a href="https://t.me/smopuim">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="20">
+    </a>
     <h2>Skills and stack:</h2>
     <table style="border: none">
         <tr>
@@ -81,7 +85,9 @@
         </tr>
     </table>
 </div>
+<div align="center">
 
+</div>
 
 <!--
 **bendenko-v/bendenko-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

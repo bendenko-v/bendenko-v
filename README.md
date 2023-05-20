@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![](https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif)
+  ![giphy](https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif)
 </div>
 
 <!--

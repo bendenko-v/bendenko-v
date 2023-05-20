@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  !(image)[https://github.com/bendenko-v/bendenko-v/assets/61465972/f57383a2-1d79-45cd-8845-b22aa347521d]
+  ![](https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif)
 </div>
 
 <!--

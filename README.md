@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif" width="80" alt="Python">
+    <img src="https://habrastorage.org/webt/_j/pb/zi/_jpbziqceoi7htr-ysbhzzcgzjg.gif" width="50" alt="Python">
     <h2>Welcome to my GitHub profile!</h2>
     <details>
         <summary>About me</summary>

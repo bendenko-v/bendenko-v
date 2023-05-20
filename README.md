@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://thoughtwin.com/assets/img/Python_img.gif" width="200"/>
+  ![giphy](https://github.com/bendenko-v/bendenko-v/assets/61465972/a060c60d-533a-43e0-b85b-158f9187ccdb)
 </div>
+
 <!--
 **bendenko-v/bendenko-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

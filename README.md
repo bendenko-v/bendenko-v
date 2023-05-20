@@ -20,7 +20,7 @@
         </tr>
         <tr>
             <th colspan="3">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask / Flask REST API 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask / Flask REST API<br>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="25"> Django / Django REST Framework
             </th>
         </tr>
@@ -64,8 +64,9 @@
             <th colspan="3">
                 <img src="https://marshmallow.readthedocs.io/en/stable/_static/marshmallow-logo.png" width="25"> Marshmallow 
                 <img src="https://openpyxl.readthedocs.io/en/latest/_static/logo.png" width="25"> OpenPyXL
-                <img src="https://www.pisciottablog.com/wp-content/uploads/2020/04/Python-Pandas-logo-441x381.png" width="25"> Pandas
-                <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="25"> Redis (basics) 
+                <img src="https://www.pisciottablog.com/wp-content/uploads/2020/04/Python-Pandas-logo-441x381.png" width="25"> Pandas<br>
+                <img src="https://yganalyst.github.io/assets/images/crawling.png" width="25"> Beautiful Soup 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="25"> Redis (basics) 
             </th>
         </tr>
         <tr>
@@ -73,7 +74,7 @@
         </tr>
         <tr>
             <th colspan="3">
-                <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu  
+                <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu<br>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="25"> PyCharm 
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="25"> Jupyter Notebook
             </th>

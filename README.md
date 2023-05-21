@@ -25,7 +25,7 @@
         <tr>
             <th colspan="3">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask / Flask REST API<br>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="25"> Django / Django REST Framework
+                <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="25"> Django / Django REST Framework
             </th>
         </tr>
         <tr>
@@ -78,8 +78,9 @@
         </tr>
         <tr>
             <th colspan="3">
-                <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu<br>
+                <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="25"> PyCharm 
+                <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" width="25"> Postman<br>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="25"> Jupyter Notebook
             </th>
         </tr>

@@ -58,7 +58,7 @@
             <th colspan="3">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25"> Git 
                 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25"> GitHub /
-                Git Actions (autodeploy to VM)
+                Git Actions
             </th>
         </tr>
         <tr>
@@ -68,7 +68,7 @@
             <th colspan="3">
                 <img src="https://marshmallow.readthedocs.io/en/stable/_static/marshmallow-logo.png" width="25"> Marshmallow 
                 <img src="https://openpyxl.readthedocs.io/en/latest/_static/logo.png" width="25"> OpenPyXL
-                <img src="https://www.pisciottablog.com/wp-content/uploads/2020/04/Python-Pandas-logo-441x381.png" width="25"> Pandas<br>
+                <img src="https://www.pisciottablog.com/wp-content/uploads/2020/04/Python-Pandas-logo-441x381.png" width="25"> Pandas (basics)<br>
                 <img src="https://yganalyst.github.io/assets/images/crawling.png" width="25"> Beautiful Soup 
                 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="25"> Redis (basics) 
             </th>

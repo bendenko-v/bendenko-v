@@ -2,7 +2,7 @@
 <!--     <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJmcm1xbnA4N3huOGY3Ynh2Zm9wbDdqc3N0dHZxb3g4Z2NkZmhtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="45" alt="Python"> Welcome to my GitHub profile!</h2> -->
     <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJmcm1xbnA4N3huOGY3Ynh2Zm9wbDdqc3N0dHZxb3g4Z2NkZmhtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="45" alt="Python" style="vertical-align: middle;">  Welcome to my GitHub profile!</h2>
     <h3>About me:</h3>
-    My name is Vadim. I live in Bar, Montenegro now.<br>
+    My name is Vadim. I live in Bar (Montenegro) now.<br>
     I am a 2D/3D CAD designer in AutoCAD, Plant3D, Inventor. I have been working with heating systems for over 10 years.<br>
     In recent years, I have been studying Python and I want to dedicate myself to web development.<br><br>
      <strong>My contacts: </strong><br>
@@ -10,6 +10,11 @@
     <a href="https://t.me/smopuim">https://t.me/smopuim</a>
     <h2>Skills and stack:</h2>
     <table style="border: none; text-align: center;">
+    <colgroup>
+        <col style="width: 33%;">
+        <col style="width: 33%;">
+        <col style="width: 34%;">
+    </colgroup>
     <tr>
         <th>
             Frameworks:
@@ -76,7 +81,7 @@
             <img src="https://openpyxl.readthedocs.io/en/latest/_static/logo.png" width="25"> OpenPyXL<br>
             <img src="https://yganalyst.github.io/assets/images/crawling.png" width="25"> Beautiful Soup<br>
             <img src="https://www.pisciottablog.com/wp-content/uploads/2020/04/Python-Pandas-logo-441x381.png" width="25"> Pandas (basics)<br>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="25"> Redis (basics) 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="25"> Redis (basics)
         </td>
         <td style="text-align: center;">
             <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu<br>
@@ -89,6 +94,7 @@
         </td>
     </tr>
 </table>
+
 </div>
 <div align="center">
 

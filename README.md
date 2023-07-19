@@ -56,7 +56,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="25"> SQLite
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25"> Docker / Docker Compose / Docker Hub
+            <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25"> Docker / Docker Compose / Hub
         </td>
         <td style="text-align: center;">
             <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25"> Git<br>
@@ -86,7 +86,7 @@
         <td style="text-align: center;">
             <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu<br>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="25"> PyCharm<br>
-            <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" width="25"> Postman<br>
+            <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="25"> Postman<br>
             <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="25"> Jupyter Notebook
         </td>
         <td style="text-align: center;">

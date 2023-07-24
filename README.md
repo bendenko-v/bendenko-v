@@ -6,95 +6,28 @@
     I am a 2D/3D CAD designer in AutoCAD, Plant3D, Inventor. I have been working with heating systems for over 10 years.<br>
     In recent years, I have been studying Python and I want to dedicate myself to web development.<br><br>
      <strong>My contacts: </strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="15">
-    <a href="https://t.me/smopuim">https://t.me/smopuim</a>
+    <a href="https://t.me/smopuim"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <h2>Skills and stack:</h2>
-    <table style="border: none; text-align: center;">
-    <colgroup>
-        <col style="width: 33%;">
-        <col style="width: 33%;">
-        <col style="width: 34%;">
-    </colgroup>
-    <tr>
-        <th>
-            Frameworks:
-        </th>
-        <th>
-            ORM Frameworks:
-        </th>
-        <th>
-            Web Development Basics:
-        </th>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask / Flask REST API<br>
-            <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="25"> Django / Django REST Framework
-        </td>
-        <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="25"> SQLAlchemy
-        </td>
-        <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25"> HTML<br>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25"> CSS
-        </td>
-    </tr>
-    <tr>
-        <th>
-            Databases:
-        </th>
-        <th>
-            Containerization:
-        </th>
-        <th>
-            Version Control and CI/CD:
-        </th>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25"> PostgreSQL<br>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="25"> SQLite
-        </td>
-        <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25"> Docker / Docker Compose / Hub
-        </td>
-        <td style="text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25"> Git<br>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25"> GitHub /
-            Git Actions
-        </td>
-    </tr>
-    <tr>
-        <th>
-            Others:
-        </th>
-        <th>
-            Tools and instruments:
-        </th>
-        <th>
-            &nbsp;
-        </th>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <img src="https://marshmallow.readthedocs.io/en/stable/_static/marshmallow-logo.png" width="25"> Marshmallow<br>
-            <img src="https://openpyxl.readthedocs.io/en/latest/_static/logo.png" width="25"> OpenPyXL<br>
-            <img src="https://yganalyst.github.io/assets/images/crawling.png" width="25"> Beautiful Soup<br>
-            <img src="https://www.pisciottablog.com/wp-content/uploads/2020/04/Python-Pandas-logo-441x381.png" width="25"> Pandas (basics)<br>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="25"> Redis (basics)
-        </td>
-        <td style="text-align: center;">
-            <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="25"> Ubuntu<br>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="25"> PyCharm<br>
-            <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="25"> Postman<br>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="25"> Jupyter Notebook
-        </td>
-        <td style="text-align: center;">
-            &nbsp;
-        </td>
-    </tr>
-</table>
-
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"><br>
+    <img src="https://habrastorage.org/webt/ph/nh/1z/phnh1zdotmrcumthtvafd5xmyqo.jpeg">
+    <img src="https://habrastorage.org/webt/h_/bx/5p/h_bx5pbsihbuqf0pdulvawb4pjm.png"><br>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"><br>
 </div>
 <div align="center">
 

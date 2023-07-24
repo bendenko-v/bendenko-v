@@ -5,7 +5,7 @@
     My name is Vadim. I live in Bar (Montenegro) now.<br>
     I am a 2D/3D CAD designer in AutoCAD, Plant3D, Inventor. I have been working with heating systems for over 10 years.<br>
     In recent years, I have been studying Python and I want to dedicate myself to web development.<br><br>
-    <strong>My contacts:</strong><br>
+    <h3>My contacts:</h3>
     <a href="https://t.me/smopuim"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <h3>Skills and stack:</h3>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">

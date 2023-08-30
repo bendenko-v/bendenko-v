@@ -2,9 +2,10 @@
 <!--     <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJmcm1xbnA4N3huOGY3Ynh2Zm9wbDdqc3N0dHZxb3g4Z2NkZmhtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="45" alt="Python"> Welcome to my GitHub profile!</h2> -->
     <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJmcm1xbnA4N3huOGY3Ynh2Zm9wbDdqc3N0dHZxb3g4Z2NkZmhtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="45" alt="Python" style="vertical-align: middle;">  Welcome to my GitHub profile!</h2>
     <h3>About me:</h3>
-    My name is Vadim. I live in Bar (Montenegro) now.<br>
-    I am a 2D/3D CAD designer in AutoCAD, Plant3D, Inventor. I have been working with heating systems for over 10 years.<br>
-    In recent years, I have been studying Python and I want to dedicate myself to web development.<br><br>
+    My name is Vadim, now I live in Bar (Montenegro).<br>
+    I am currently on my way to becoming a full time Python web developer. I am constantly learning new technologies and evolving as a developer.<br>
+    Before I started learning Python, my life was closely related to building complex heating systems and working on CAD design. Over the years I have developed 2D/3D drawings using programs such as AutoCAD, Plant3D and Inventor. My main activity was the design of heating systems, and I have been doing this for over 14 years.<br>
+    I used Python to automate design work, to perform calculations, select equipment, and create specifications. I have successfully used libraries such as ezdxf, OpenPyXL, Pandas, etc.<br><br>
     <h3>My contacts:</h3>
     <a href="https://t.me/smopuim"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <h3>Skills and stack:</h3>
